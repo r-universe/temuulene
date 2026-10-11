@@ -5,7 +5,6 @@
 [submodule "mongolmaps"]
 	path = mongolmaps
 	url = https://github.com/temuulene/mongolmaps
-	registered = false
 [submodule "mongolstats"]
 	path = mongolstats
 	url = https://github.com/temuulene/mongolstats
